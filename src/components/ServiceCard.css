@@ -1,0 +1,51 @@
+.service-card {
+  background-color: white;
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.service-img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 4px;
+}
+
+.price {
+  font-weight: bold;
+  margin: 10px 0;
+}
+
+.service-card button {
+  background-color: #2e7d32;
+  color: white;
+  border: none;
+  padding: 8px 14px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.service-card button:hover {
+  background-color: #1b5e20;
+}
+
+/* 📱 Mobile adjustments */
+@media (max-width: 767px) {
+  .service-card {
+    padding: 10px;
+  }
+
+  .service-card h3 {
+    font-size: 0.9rem;
+  }
+
+  .price {
+    font-size: 0.85rem;
+  }
+
+  .service-card button {
+    font-size: 0.8rem;
+    padding: 6px 10px;
+  }
+}
