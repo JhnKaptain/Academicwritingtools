@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Academicwritingtools/static/css/main.2d20e834.css",
-    "main.js": "/Academicwritingtools/static/js/main.d200cbc1.js",
+    "main.js": "/Academicwritingtools/static/js/main.c2447d63.js",
     "index.html": "/Academicwritingtools/index.html",
     "main.2d20e834.css.map": "/Academicwritingtools/static/css/main.2d20e834.css.map",
-    "main.d200cbc1.js.map": "/Academicwritingtools/static/js/main.d200cbc1.js.map"
+    "main.c2447d63.js.map": "/Academicwritingtools/static/js/main.c2447d63.js.map"
   },
   "entrypoints": [
     "static/css/main.2d20e834.css",
-    "static/js/main.d200cbc1.js"
+    "static/js/main.c2447d63.js"
   ]
 }
